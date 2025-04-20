@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Car Phone Mount",
+    "price": 15.99,
+    "image": "phone_mount"
+  },
+  {
+    "name": "Dashboard Camera",
+    "price": 49.99,
+    "image": "dash_cam"
+  },
+  {
+    "name": "Car Vacuum Cleaner",
+    "price": 29.50,
+    "image": "vacuum_cleaner"
+  },
+  {
+    "name": "LED Interior Lights",
+    "price": 12.75,
+    "image": "led_lights"
+  },
+  {
+    "name": "Steering Wheel Cover",
+    "price": 9.99,
+    "image": "wheel_cover"
+  },
+  {
+    "name": "Tire Pressure Gauge",
+    "price": 7.25,
+    "image": "pressure_gauge"
+  },
+  {
+    "name": "Bluetooth FM Transmitter",
+    "price": 19.99,
+    "image": "fm_transmitter"
+  },
+  {
+    "name": "Seat Belt Cutter & Window Breaker",
+    "price": 12.50,
+    "image": "seatbelt_cutter"
+  },
+  {
+    "name": "USB Car Charger",
+    "price": 14.99,
+    "image": "usb_charger"
+  },
+  {
+    "name": "Windshield Sunshade",
+    "price": 11.49,
+    "image": "sunshade"
+  },
+  {
+    "name": "Portable Jump Starter",
+    "price": 89.99,
+    "image": "jump_starter"
+  },
+  {
+    "name": "Car Air Freshener",
+    "price": 5.99,
+    "image": "air_freshener"
+  },
+  {
+    "name": "Trunk Organizer",
+    "price": 24.99,
+    "image": "trunk_organizer"
+  },
+  {
+    "name": "Magnetic Phone Holder",
+    "price": 17.49,
+    "image": "magnetic_holder"
+  },
+  {
+    "name": "Tire Inflator Pump",
+    "price": 34.99,
+    "image": "inflator_pump"
+  },
+  {
+    "name": "Blind Spot Mirror",
+    "price": 6.99,
+    "image": "blind_spot_mirror"
+  },
+  {
+    "name": "Emergency Roadside Kit",
+    "price": 29.99,
+    "image": "roadside_kit"
+  }
+]
